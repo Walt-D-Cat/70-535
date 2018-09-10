@@ -48,3 +48,7 @@ This is the username - password set to use on all _Azure_ resources: *walt*`0I3t
 ### 2018-09-01
 
 I had started with the _Microsoft Press_ book, but it is tough going.  I'm jumping over to the _Packt>_ book to see if it's better reading.  Hoping to get to the first lab tonight, I suspect I will need multiple monitors.
+
+### 2018-09-02
+
+Jumped on the first lab: yikes, time to learn networking for developers.  Heading over to _udacity_ [Networking for Web Developers](https://classroom.udacity.com/courses/ud256) to learn basic networking.  There's also a _PluralSight_ ([TCP/IP Networking for Developers](https://app.pluralsight.com/library/courses/tcp-ip-networking-for-devs)) video on this.
