@@ -52,3 +52,9 @@ I had started with the _Microsoft Press_ book, but it is tough going.  I'm jumpi
 ### 2018-09-02
 
 Jumped on the first lab: yikes, time to learn networking for developers.  Heading over to _udacity_ [Networking for Web Developers](https://classroom.udacity.com/courses/ud256) to learn basic networking.  There's also a _PluralSight_ ([TCP/IP Networking for Developers](https://app.pluralsight.com/library/courses/tcp-ip-networking-for-devs)) video on this.
+
+### 2018-09-10
+
+Well, the public facing site went down after the move.  My *MCSD* endeavour was sidelined.  I have new plan; I'm going to architect the "What our web properties look like on the azure cloud."  I'll be presenting this at the bi-weekly review meeting, oh the fun that will be.  
+
+Onm the other hand, I finished _Case Study 1_ from the labs and am reading chapter two of the _Packt>_ book.  I will read the _Packt>_ book chapter by chapter first, following each chapter with the cha[ter from the _MS Press_ and finish off with a lab.  Trouble is the lab books don't seem to following the same structure as the exam prep guide.  This means that the to books and and the labs are out of sync.
