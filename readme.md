@@ -1,7 +1,8 @@
 # Readme for the 70-535 Exam
 
-Preamble, installing the _Azure PS_ tools.  [From _Microsoft_](https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-6.8.1&viewFallbackFrom=azurermps-5.6.0)
 
+
+Preamble, installing the _Azure PS_ tools.  [From _Microsoft_](https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-6.8.1&viewFallbackFrom=azurermps-5.6.0)
 Set up the profile so that the `posh-git` and `azureRM` modules are imported when the session is started.  I guess as a reasonably good idea a number of shell launch scripts be created to launch PS with different configuration.
 
 These [notes on creating a profile](https://www.howtogeek.com/50236/customizing-your-powershell-profile/) are straight forward.
@@ -43,7 +44,7 @@ Determined plan and purchased the two work books, pursued the [MeasureUp]() peop
 
 Confirmed that my [MSDN Azure](https://portal.azure.com/#@waltspeelmancaseware.onmicrosoft.com/dashboard/private/1df9e861-7c08-4642-aec3-1e4bef73a017) site was active and for some reason configured under *waltspeelman@outlook.com*.  
 
-This is the username - password set to use on all _Azure_ resources: *walt*`0I3t!!lD#sPC`
+This is the username - password set to use on all _Azure_ resources: *walt* | `0I3t!!lD#sPC`
 
 ### 2018-09-01
 
@@ -57,4 +58,8 @@ Jumped on the first lab: yikes, time to learn networking for developers.  Headin
 
 Well, the public facing site went down after the move.  My *MCSD* endeavour was sidelined.  I have new plan; I'm going to architect the "What our web properties look like on the azure cloud."  I'll be presenting this at the bi-weekly review meeting, oh the fun that will be.  
 
-Onm the other hand, I finished _Case Study 1_ from the labs and am reading chapter two of the _Packt>_ book.  I will read the _Packt>_ book chapter by chapter first, following each chapter with the cha[ter from the _MS Press_ and finish off with a lab.  Trouble is the lab books don't seem to following the same structure as the exam prep guide.  This means that the to books and and the labs are out of sync.
+On the other hand, I finished _Case Study 1_ from the labs and am reading chapter two of the _Packt>_ book.  I will read the _Packt>_ book chapter by chapter first, following each chapter with the chapter from the _MS Press_ and finish off with a lab.  Trouble is the lab books don't seem to following the same structure as the exam prep guide.  This means that the to books and and the labs are out of sync.
+
+### 2018-09-12
+
+The _Packt>_ book section on creating an *ASE* is out of date, use the [MSDN](https://docs.microsoft.com/en-za/azure/app-service/environment/create-external-ase) reference instead.  I'm a little grey on this plan and think that I will need to review this in greater detail after.
